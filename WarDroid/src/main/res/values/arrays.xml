@@ -19,9 +19,11 @@
     <string-array name="aura_filter_names">
         <item>Corrosive Projection</item>
         <item>Dead Eye</item>
+        <item>EMP Aura</item>
         <item>Enemy Radar</item>
         <item>Energy Siphon</item>
         <item>Infested Impedance</item>
+        <item>Loot Detector</item>
         <item>Physique</item>
         <item>Pistol Scavenger</item>
         <item>Rejuvenation</item>
@@ -35,20 +37,39 @@
         <item>Steel Charge</item>
     </string-array>
     <string-array name="bp_filter_names">
+        <item>Amaru Chroma Helmet</item>
+        <item>Anubis Inaros Helmet</item>
+        <item>Aristeas Limbo Helmet</item>
+        <item>Armistice Vauban Helmet</item>
         <item>Aura Trinity Helmet</item>
+        <item>Aurai Titania Helmet</item>
         <item>Aurora Frost Helmet</item>
         <item>Avalon Excalibur Helmet</item>
         <item>Backdraft Ember Helmet</item>
         <item>Bastet Valkyr Helmet</item>
+        <item>Bathory Garuda Helmet</item>
         <item>Brokk Hammer Skin</item>
+        <item>Cadenza Octavia Helmet</item>
+        <item>Canopic Inaros Helmet</item>
         <item>Ceramic Dagger</item>
         <item>Chlora Saryn Helmet</item>
         <item>Chorus Banshee Helmet</item>
         <item>Cierzo Zephyr Helmet</item>
+        <item>Circa Nezha Helmet</item>
         <item>Coil Mag Helmet</item>
+        <item>Clisthert Equinox Helmet</item>
         <item>Dagger Axe Skin</item>
+        <item>Dagger Zoren Skin</item>
         <item>Dark Dagger</item>
         <item>Dark Sword</item>
+        <item>Dasheng Wukong Helmet</item>
+        <item>Delphi Khora Helmet</item>
+        <item>Dera Vandal Barrel</item>
+        <item>Dera Vandal</item>
+        <item>Dera Vandal Receiver</item>
+        <item>Dera Vandal Stock</item>
+        <item>Drac Chroma Helmet</item>
+        <item>Enigma Loki Helmet</item>
         <item>Esprit Vauban Helmet</item>
         <item>Essence Loki Helmet</item>
         <item>Flux Nova Helmet</item>
@@ -56,69 +77,138 @@
         <item>Gambit Vauban Helmet</item>
         <item>Gauss Mag Helmet</item>
         <item>Glaive</item>
+        <item>Harlequin Mirage Helmet</item>
         <item>Heat Dagger</item>
         <item>Heat Sword</item>
         <item>Hemlock Saryn Helmet</item>
         <item>Jaw Sword</item>
+        <item>Jinza Nezha Helmet</item>
         <item>Kara Valkyr Helmet</item>
+        <item>Karak Wraith Barrel</item>
+        <item>Karak Wraith</item>
+        <item>Karak Wraith Receiver</item>
+        <item>Karak Wraith Stock</item>
+        <item>Ketos Hydroid Helmet</item>
+        <item>Latron Wraith Barrel</item>
+        <item>Latron Wraith</item>
+        <item>Latron Wraith Receiver</item>
+        <item>Latron Wraith Stock</item>
         <item>Locust Ash Helmet</item>
+        <item>Longhorn Mesa Helmet</item>
+        <item>Loxley Ivara Helmet</item>
+        <item>Mab Titania Helmet</item>
+        <item>Mab Titania Helmet</item>
+        <item>Macak Wukong Helmet</item>
+        <item>Magrite Limbo Helmet</item>
         <item>Manticore Axe Skin</item>
         <item>Markhor Oberon Helmet</item>
         <item>Menticide Nyx Helmet</item>
         <item>Meridian Trinity Helmet</item>
+        <item>Meroe Baruuk Helmet</item>
+        <item>Meroe Baruuk Helmet</item>
+        <item>Mordred Excalibur Helmet</item>
+        <item>Myxini Nidus Helmet</item>
+        <item>Myxini Nidus Helmet</item>
         <item>Orokin Catalyst</item>
         <item>Orokin Reactor</item>
         <item>Oryx Oberon Helmet</item>
+        <item>Ovis Mesa Helmet</item>
         <item>Pangolin Sword</item>
         <item>Pendragon Excalibur Helmet</item>
         <item>Phoenix Ember Helmet</item>
         <item>Plasma Sword</item>
+        <item>Prion Nidus Helmet</item>
         <item>Pulse Volt Helmet</item>
         <item>Quantum Nova Helmet</item>
         <item>Raknis Nekros Helmet</item>
         <item>Reverb Banshee Helmet</item>
         <item>Scorpion Ash Helmet</item>
+        <item>Sheev Blade</item>
+        <item>Sheev</item>
+        <item>Sheev Heatsink</item>
+        <item>Sheev Hilt</item>
+        <item>Shikoro Atlas Helmet</item>
         <item>Shroud Nekros Helmet</item>
+        <item>Slipstream Nova Helmet</item>
+        <item>Snipetron Vandal Barrel</item>
+        <item>Snipetron Vandal</item>
+        <item>Snipetron Vandal Receiver</item>
+        <item>Snipetron Vandal Stock</item>
+        <item>Solstice Equinox Helmet</item>
         <item>Squall Frost Helmet</item>
         <item>Storm Volt Helmet</item>
+        <item>Strun Wraith Barrel</item>
+        <item>Strun Wraith</item>
+        <item>Strun Wraith Receiver</item>
+        <item>Strun Wraith Stock</item>
+        <item>Suffragan Harrow Helmet</item>
         <item>Swindle Loki Helmet</item>
+        <item>Tartarus Atlas Helmet</item>
+        <item>Tengu Zephyr Helmet</item>
         <item>Thrak Rhino Helmet</item>
+        <item>Triton Hydroid Helmet</item>
+        <item>Trivelin Mirage Helmet</item>
+        <item>Twin Vipers Wraith Barrels</item>
+        <item>Twin Vipers Wraith</item>
+        <item>Twin Vipers Wraith Receivers</item>
         <item>Vanguard Rhino Helmet</item>
+        <item>Vania Revenant Helmet</item>
         <item>Vauban Chassis</item>
         <item>Vauban Helmet</item>
         <item>Vauban Systems</item>
         <item>Vespa Nyx Helmet</item>
+        <item>Virago Gara Helmet</item>
+        <item>Zirastra Ivara Helmet</item>
     </string-array>
     <string-array name="mod_filter_names">
         <item>Accelerated Blast</item>
+        <item>Animal Instinct</item>
+        <item>Armored Agility</item>
         <item>Blaze</item>
+        <item>Chilling Reload</item>
         <item>Constitution</item>
+        <item>Drifting Contact</item>
         <item>Focus Energy</item>
         <item>Fortitude</item>
         <item>Hammer Shot</item>
         <item>Ice Storm</item>
+        <item>Lethal Torrent</item>
         <item>Rending Strike</item>
+        <item>Seeking Fury</item>
+        <item>Shred</item>
+        <item>Streamlined Form</item>
         <item>Stunning Speed</item>
+        <item>Vigor</item>
         <item>Wildfire</item>
     </string-array>
     <string-array name="misc_filter_names">
         <item>Alloy Plate</item>
+        <item>Argon Crystal</item>
         <item>Circuits</item>
         <item>Control Module</item>
         <item>Detonite Injector</item>
+        <item>Endo</item>
         <item>Ferrite</item>
         <item>Fieldron</item>
         <item>Gallium</item>
-        <item>Mutagen Mass</item>
+        <item>Kavat Genetic Code</item>
+        <item>Kubrow Egg</item>
         <item>Morphics</item>
+        <item>Mutagen Mass</item>
+        <item>Mutalist Alad V Nav Coordinate</item>
         <item>Nano Spores</item>
         <item>Neural Sensors</item>
         <item>Neurodes</item>
+        <item>Nitain Extract</item>
         <item>Orokin Cell</item>
+        <item>Oxium</item>
         <item>Plastids</item>
         <item>Polymer Bundle</item>
         <item>Rubedo</item>
         <item>Salvage</item>
+        <item>Synthula</item>
+        <item>Tellurium</item>
+        <item>Void Traces</item>
     </string-array>
     <string-array name="volume_names">
         <item>Notification</item>
@@ -128,7 +218,8 @@
     <string-array name="type_filter_names">
         <item>Assassination</item>
         <item>Capture</item>
-        <item>Deception</item>
+        <item>Defection</item>
+        <item>Defection</item>
         <item>Defense</item>
         <item>Excavation</item>
         <item>Extermination</item>
@@ -175,9 +266,11 @@
     <string-array name="aura_filter_entries">
         <item>Corrosive Projection</item>
         <item>Dead Eye</item>
+        <item>EMP Aura</item>
         <item>Enemy Radar</item>
         <item>Energy Siphon</item>
         <item>Infested Impedance</item>
+        <item>Loot Detector</item>
         <item>Physique</item>
         <item>Pistol Scavenger</item>
         <item>Rejuvenation</item>
@@ -191,20 +284,39 @@
         <item>Steel Charge</item>
     </string-array>
     <string-array name="bp_filter_entries">
+        <item>Amaru Chroma Helmet</item>
+        <item>Anubis Inaros Helmet</item>
+        <item>Aristeas Limbo Helmet</item>
+        <item>Armistice Vauban Helmet</item>
         <item>Aura Trinity Helmet</item>
+        <item>Aurai Titania Helmet</item>
         <item>Aurora Frost Helmet</item>
         <item>Avalon Excalibur Helmet</item>
         <item>Backdraft Ember Helmet</item>
         <item>Bastet Valkyr Helmet</item>
+        <item>Bathory Garuda Helmet</item>
         <item>Brokk Hammer Skin</item>
+        <item>Cadenza Octavia Helmet</item>
+        <item>Canopic Inaros Helmet</item>
         <item>Ceramic Dagger</item>
         <item>Chlora Saryn Helmet</item>
         <item>Chorus Banshee Helmet</item>
         <item>Cierzo Zephyr Helmet</item>
+        <item>Circa Nezha Helmet</item>
         <item>Coil Mag Helmet</item>
+        <item>Clisthert Equinox Helmet</item>
         <item>Dagger Axe Skin</item>
+        <item>Dagger Zoren Skin</item>
         <item>Dark Dagger</item>
         <item>Dark Sword</item>
+        <item>Dasheng Wukong Helmet</item>
+        <item>Delphi Khora Helmet</item>
+        <item>Dera Vandal Barrel</item>
+        <item>Dera Vandal</item>
+        <item>Dera Vandal Receiver</item>
+        <item>Dera Vandal Stock</item>
+        <item>Drac Chroma Helmet</item>
+        <item>Enigma Loki Helmet</item>
         <item>Esprit Vauban Helmet</item>
         <item>Essence Loki Helmet</item>
         <item>Flux Nova Helmet</item>
@@ -212,69 +324,138 @@
         <item>Gambit Vauban Helmet</item>
         <item>Gauss Mag Helmet</item>
         <item>Glaive</item>
+        <item>Harlequin Mirage Helmet</item>
         <item>Heat Dagger</item>
         <item>Heat Sword</item>
         <item>Hemlock Saryn Helmet</item>
         <item>Jaw Sword</item>
+        <item>Jinza Nezha Helmet</item>
         <item>Kara Valkyr Helmet</item>
+        <item>Karak Wraith Barrel</item>
+        <item>Karak Wraith</item>
+        <item>Karak Wraith Receiver</item>
+        <item>Karak Wraith Stock</item>
+        <item>Ketos Hydroid Helmet</item>
+        <item>Latron Wraith Barrel</item>
+        <item>Latron Wraith</item>
+        <item>Latron Wraith Receiver</item>
+        <item>Latron Wraith Stock</item>
         <item>Locust Ash Helmet</item>
+        <item>Longhorn Mesa Helmet</item>
+        <item>Loxley Ivara Helmet</item>
+        <item>Mab Titania Helmet</item>
+        <item>FairyAltTwoHelmetBlueprint</item>
+        <item>Macak Wukong Helmet</item>
+        <item>Magrite Limbo Helmet</item>
         <item>Manticore Axe Skin</item>
         <item>Markhor Oberon Helmet</item>
         <item>Menticide Nyx Helmet</item>
         <item>Meridian Trinity Helmet</item>
+        <item>Meroe Baruuk Helmet</item>
+        <item>BaruukAltHelmetBlueprint</item>
+        <item>Mordred Excalibur Helmet</item>
+        <item>Myxini Nidus Helmet</item>
+        <item>NidusAltTwoHelmetBlueprint</item>
         <item>Orokin Catalyst</item>
         <item>Orokin Reactor</item>
         <item>Oryx Oberon Helmet</item>
+        <item>Ovis Mesa Helmet</item>
         <item>Pangolin Sword</item>
         <item>Pendragon Excalibur Helmet</item>
         <item>Phoenix Ember Helmet</item>
         <item>Plasma Sword</item>
+        <item>Prion Nidus Helmet</item>
         <item>Pulse Volt Helmet</item>
         <item>Quantum Nova Helmet</item>
         <item>Raknis Nekros Helmet</item>
         <item>Reverb Banshee Helmet</item>
         <item>Scorpion Ash Helmet</item>
+        <item>Sheev Blade</item>
+        <item>Sheev</item>
+        <item>Sheev Heatsink</item>
+        <item>Sheev Hilt</item>
+        <item>Shikoro Atlas Helmet</item>
         <item>Shroud Nekros Helmet</item>
+        <item>Slipstream Nova Helmet</item>
+        <item>Snipetron Vandal Barrel</item>
+        <item>Snipetron Vandal</item>
+        <item>Snipetron Vandal Receiver</item>
+        <item>Snipetron Vandal Stock</item>
+        <item>Solstice Equinox Helmet</item>
         <item>Squall Frost Helmet</item>
         <item>Storm Volt Helmet</item>
+        <item>Strun Wraith Barrel</item>
+        <item>Strun Wraith</item>
+        <item>Strun Wraith Receiver</item>
+        <item>Strun Wraith Stock</item>
+        <item>Suffragan Harrow Helmet</item>
         <item>Swindle Loki Helmet</item>
+        <item>Tartarus Atlas Helmet</item>
+        <item>Tengu Zephyr Helmet</item>
         <item>Thrak Rhino Helmet</item>
+        <item>Triton Hydroid Helmet</item>
+        <item>Trivelin Mirage Helmet</item>
+        <item>Twin Vipers Wraith Barrels</item>
+        <item>Twin Vipers Wraith</item>
+        <item>Twin Vipers Wraith Receivers</item>
         <item>Vanguard Rhino Helmet</item>
+        <item>Vania Revenant Helmet</item>
         <item>Vauban Chassis</item>
         <item>Vauban Helmet</item>
         <item>Vauban Systems</item>
         <item>Vespa Nyx Helmet</item>
+        <item>Virago Gara Helmet</item>
+        <item>Zirastra Ivara Helmet</item>
     </string-array>
     <string-array name="mod_filter_entries">
         <item>Accelerated Blast</item>
+        <item>Animal Instinct</item>
+        <item>Armored Agility</item>
         <item>Blaze</item>
+        <item>Chilling Reload</item>
         <item>Constitution</item>
+        <item>Drifting Contact</item>
         <item>Focus Energy</item>
         <item>Fortitude</item>
         <item>Hammer Shot</item>
         <item>Ice Storm</item>
+        <item>Lethal Torrent</item>
         <item>Rending Strike</item>
+        <item>Seeking Fury</item>
+        <item>Shred</item>
+        <item>Streamlined Form</item>
         <item>Stunning Speed</item>
+        <item>Vigor</item>
         <item>Wildfire</item>
     </string-array>
     <string-array name="misc_filter_entries">
         <item>Alloy Plate</item>
+        <item>Argon Crystal</item>
         <item>Circuits</item>
         <item>Control Module</item>
         <item>Detonite Injector</item>
+        <item>Endo</item>
         <item>Ferrite</item>
         <item>Fieldron</item>
         <item>Gallium</item>
-        <item>Mutagen Mass</item>
+        <item>Kavat Genetic Code</item>
+        <item>Kubrow Egg</item>
         <item>Morphics</item>
+        <item>Mutagen Mass</item>
+        <item>Mutalist Alad V Nav Coordinate</item>
         <item>Nano Spores</item>
         <item>Neural Sensors</item>
         <item>Neurodes</item>
+        <item>Nitain Extract</item>
         <item>Orokin Cell</item>
+        <item>Oxium</item>
         <item>Plastids</item>
         <item>Polymer Bundle</item>
         <item>Rubedo</item>
         <item>Salvage</item>
+        <item>Synthula</item>
+        <item>Tellurium</item>
+        <item>Void Traces</item>
     </string-array>
     <string-array name="volume_entries">
         <item>notification</item>
@@ -284,7 +465,8 @@
     <string-array name="type_filter_entries">
         <item>Assassination</item>
         <item>Capture</item>
-        <item>Deception</item>
+        <item>Defection</item>
+        <item>MT_EVACUATION</item>
         <item>Defense</item>
         <item>Excavation</item>
         <item>Extermination</item>

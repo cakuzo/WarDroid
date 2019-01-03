@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.deathsnacks.wardroid"
     android:versionCode="49"
-    android:versionName="3.5.1">
+    android:versionName="3.5.3">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
